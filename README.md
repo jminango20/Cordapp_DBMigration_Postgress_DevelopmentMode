@@ -1,4 +1,4 @@
-# Cordapp_DBMigration_Postgress_DevelopmentMode
+# Cordapp DBMigration Postgress DevelopmentMode
 Pasos a seguir para la migracion hacia una DB Postgress de un cordapp 4.5 en modo de desarrollo
 
 Sigue lo indicado en: https://docs.r3.com/en/platform/corda/4.5/open-source/node-database.html#h2
